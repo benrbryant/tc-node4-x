@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Change me please(?)
 more text
 =======
@@ -21,3 +22,6 @@ Seth wuz here
 ░░░░░░░░░░░░░░▀▄▄▄▄▄░░░░░█
 
 >>>>>>> cf79b8c0bf9b82ac4748e01d15bba20150029918
+=======
+test test
+>>>>>>> 25e1d1f23139c530d5fa494b2b0222d1e8494376
