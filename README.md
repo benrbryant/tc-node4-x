@@ -1,6 +1,6 @@
 # Republic of Coders
 
-![Republic Header](./src/assets/republic.png)
+<img src="./src/assets/republic.png" width="250"></img>
 
 ## Contributors
 
